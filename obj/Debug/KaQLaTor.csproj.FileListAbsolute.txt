@@ -1,0 +1,11 @@
+D:\Visual Studio\Projects\KaQLaTor\bin\Debug\KaQLaTor.exe.config
+D:\Visual Studio\Projects\KaQLaTor\bin\Debug\KaQLaTor.exe
+D:\Visual Studio\Projects\KaQLaTor\bin\Debug\KaQLaTor.pdb
+D:\Visual Studio\Projects\KaQLaTor\obj\Debug\KaQLaTor.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\KaQLaTor\obj\Debug\KaQLaTor.Form1.resources
+D:\Visual Studio\Projects\KaQLaTor\obj\Debug\KaQLaTor.Properties.Resources.resources
+D:\Visual Studio\Projects\KaQLaTor\obj\Debug\KaQLaTor.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\KaQLaTor\obj\Debug\KaQLaTor.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\KaQLaTor\obj\Debug\KaQLaTor.exe
+D:\Visual Studio\Projects\KaQLaTor\obj\Debug\KaQLaTor.pdb
+D:\Visual Studio\Projects\KaQLaTor\obj\Debug\KaQLaTor.Form2.resources
